@@ -3,7 +3,7 @@
 
     <string name="login_in_progress">로그인중…</string>
     <string name="app_name">Tiny Tiny RSS</string>
-    <string name="login_need_configure">まずはじめにアプリケーションの設定をしてください。</string>
+    <string name="login_need_configure">먼저 앱 설정을 완료하세요.</string>
     <string name="login_ready">Ready to login.</string>
     <string name="login_login">아이디</string>
     <string name="logout">로그아웃</string>
